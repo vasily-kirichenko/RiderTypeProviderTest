@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RiderTypeProviderTest", "RiderTypeProviderTest\RiderTypeProviderTest.fsproj", "{841382FF-BED2-42E0-AB88-F7D48201D0ED}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library", "Library\Library.fsproj", "{5B9D8819-C657-40E5-9CCC-413F9E2A8047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841382FF-BED2-42E0-AB88-F7D48201D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841382FF-BED2-42E0-AB88-F7D48201D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841382FF-BED2-42E0-AB88-F7D48201D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841382FF-BED2-42E0-AB88-F7D48201D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9D8819-C657-40E5-9CCC-413F9E2A8047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9D8819-C657-40E5-9CCC-413F9E2A8047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9D8819-C657-40E5-9CCC-413F9E2A8047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9D8819-C657-40E5-9CCC-413F9E2A8047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
