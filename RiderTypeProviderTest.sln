@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.0.0
-MinimumVisualStudioVersion = 10.0.0.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RiderTypeProviderTest", "RiderTypeProviderTest\RiderTypeProviderTest.fsproj", "{841382FF-BED2-42E0-AB88-F7D48201D0ED}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library", "Library\Library.fsproj", "{5B9D8819-C657-40E5-9CCC-413F9E2A8047}"
